@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1706294832 source:c:\users\cicer\onedrive\Área de trabalho\hugo\deciamal-binario\main.c
+	<stdio.h>
+	<stdlib.h>
+	"decimalParaBinario.h"
+
+1706294023 c:\users\cicer\onedrive\Área de trabalho\hugo\deciamal-binario\decimalparabinario.h
+
+1706294006 source:c:\users\cicer\onedrive\Área de trabalho\hugo\deciamal-binario\decimalparabinario.c
+	<stdlib.h>
+	<stdio.h>
+	"decimalParaBinario.h"
+
